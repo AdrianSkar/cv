@@ -17,7 +17,7 @@ services
 	- [Adrianskar.com​](https://adrianskar.com): Logo design, site currently under development.
 	- [Natural-acupuncture.com​](https://natural-acupuncture.com/), ​[acupunturanatural.com​](https://acupunturanatural.com/),
 [acupuntura-natural-colombia.com​](https://acupuntura-natural-colombia.com/): Perf. and SEO optimization, site migration and set-up, maintenance and advice.
-	- [Sanadayana.com](https://web.archive.org/web/20171020115041/https://sanadayana.com/​): Logo design and advice for local business.
+	- [Sanadayana.com](https://web.archive.org/web/20171020115041/https://sanadayana.com/): Logo design and advice for local business.
 	- [Luisbomati.es](http://luisbomati.es/​): Logo design, site design and development.
 
 ## Education

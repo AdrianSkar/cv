@@ -1,7 +1,7 @@
 
 ![Adrian Skar](images/adskar-black.svg)
 
-Hi! I’m a self-taught web dev-developer with more than 10 years of experience working remotely both with companies and individual clients looking forward to learn and work with new languages and teams. 
+Hi! I’m a self-taught web developer with more than 10 years of experience working remotely both with companies and individual clients looking forward to learn and work with new languages and teams. 
 
 HTML - CSS - JS - GIT - SQL
 
@@ -11,13 +11,13 @@ HTML - CSS - JS - GIT - SQL
 translation services (contractor)
 *2011 - PRESENT*
 
-- **Self-employed**​ — Web design and development
+- **Self-employed**​ - Web design and development
 services
 *2017 - PRESENT*
 	- [Adrianskar.com​](https://adrianskar.com): Logo design, site currently under development.
 	- [Natural-acupuncture.com​](https://natural-acupuncture.com/), ​[acupunturanatural.com​](https://acupunturanatural.com/),
 [acupuntura-natural-colombia.com​](https://acupuntura-natural-colombia.com/): Perf. and SEO optimization, site migration and set-up, maintenance and advice.
-	- [Sanadayana.com](https://sanadayana.com/​): Logo design and advice for local business.
+	- [Sanadayana.com](https://web.archive.org/web/20171020115041/https://sanadayana.com/​): Logo design and advice for local business.
 	- [Luisbomati.es](http://luisbomati.es/​): Logo design, site design and development.
 
 ## Education

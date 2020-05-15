@@ -1,13 +1,13 @@
 
 ![Adrian Skar](images/adskar-black.svg)
 
-Hi! I’m a self-taught web developer with more than 10 years of experience working remotely both with companies and individual clients looking forward to learn and work with new languages and teams. 
+Hi! I’m a self-taught web developer with more than 5 years of experience working remotely both with companies and individual clients looking forward to learn and work with new languages and teams. 
 
 HTML - CSS - JS - GIT - SQL
 
 ## Experience
 
-- **Lionbridge INC**​ - Search engine evaluation and
+- **Lionbridge Technologies, Inc**​ - Search engine evaluation and
 translation services (contractor).
 *2011 - PRESENT*
 
@@ -16,7 +16,7 @@ services.
 *2017 - PRESENT*
 	- [Adrianskar.com​](https://adrianskar.com): Logo design, site currently under development.
 	- [Natural-acupuncture.com​](https://natural-acupuncture.com/), ​[acupunturanatural.com​](https://web.archive.org/web/20190112201615/https://acupunturanatural.com/),
-[acupuntura-natural-colombia.com​](https://acupuntura-natural-colombia.com/): Perf. and SEO optimization, site migration and set-up, maintenance and advice.
+[acupuntura-natural-colombia.com​](https://acupuntura-natural-colombia.com/): Performance and SEO optimization, site migration and set-up, maintenance and advice.
 	- [Sanadayana.com](https://web.archive.org/web/20171020115041/https://sanadayana.com/): Logo design and advice for local business.
 	- [Luisbomati.es](http://luisbomati.es/​): Logo design, site design and development.
 
@@ -43,3 +43,7 @@ ___
 
 - [Printable version](ResumeAdskar_print.pdf)
 - ["Fancy" test](ResumeAdskar_fancy_test.pdf)
+
+___
+
+`Icons 

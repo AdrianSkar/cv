@@ -8,14 +8,14 @@ HTML - CSS - JS - GIT - SQL
 ## Experience
 
 - **Lionbridge INC**​ - Search engine evaluation and
-translation services (contractor)
+translation services (contractor).
 *2011 - PRESENT*
 
 - **Self-employed**​ - Web design and development
-services
+services.
 *2017 - PRESENT*
 	- [Adrianskar.com​](https://adrianskar.com): Logo design, site currently under development.
-	- [Natural-acupuncture.com​](https://natural-acupuncture.com/), ​[acupunturanatural.com​](https://acupunturanatural.com/),
+	- [Natural-acupuncture.com​](https://natural-acupuncture.com/), ​[acupunturanatural.com​](https://web.archive.org/web/20190112201615/https://acupunturanatural.com/),
 [acupuntura-natural-colombia.com​](https://acupuntura-natural-colombia.com/): Perf. and SEO optimization, site migration and set-up, maintenance and advice.
 	- [Sanadayana.com](https://web.archive.org/web/20171020115041/https://sanadayana.com/): Logo design and advice for local business.
 	- [Luisbomati.es](http://luisbomati.es/​): Logo design, site design and development.
@@ -38,3 +38,8 @@ freeCodeCamp
 
 - *Responsive web design* certification @[freeCodeCamp](https://www.freecodecamp.org/certification/adrianskar/responsive-web-design)  - *2018*
 - [More](further%20edu.md)
+
+___
+
+- [Printable version](ResumeAdskar_print.pdf)
+- ["Fancy" test](ResumeAdskar_fancy_test.pdf)

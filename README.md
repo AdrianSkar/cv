@@ -22,6 +22,8 @@ services.
 
 ## Education
 
+- *BBDD relacionales, SQL & MySQL* @[Keepcoding](https://plataforma.keepcoding.io/p/curso-bbdd-sql-mysql) - *Present*
+
 - *Data warehousing & BI* ([Spain's IFCD013PO certification](http://www.madrid.org/sfoc_web/2016/IFCD013PO.pdf)) @Hazerta - *Present*
 
 - *Computing essentials & Networking essentials* @[Pluralsight](https://app.pluralsight.com/paths/skill/fundamentals-of-it-operations-skill) - *2020*

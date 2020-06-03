@@ -22,30 +22,26 @@ services.
 
 ## Education
 
-- *BBDD relacionales, SQL & MySQL* @[Keepcoding](https://plataforma.keepcoding.io/p/curso-bbdd-sql-mysql) - *Present*
+- *Git, GitHub & SourceTree* @[Keepcoding](https://plataforma.keepcoding.io/p/curso-git-github-sourcetree) - *Present*
+  
+- *BBDD relacionales, SQL & MySQL* @[Keepcoding](https://plataforma.keepcoding.io/p/curso-bbdd-sql-mysql) - *2020*
 
-- *Data warehousing & BI* ([Spain's IFCD013PO certification](http://www.madrid.org/sfoc_web/2016/IFCD013PO.pdf)) @Hazerta - *Present*
+- *Data warehousing & BI* ([Spain's IFCD013PO cert.](http://www.madrid.org/sfoc_web/2016/IFCD013PO.pdf)) @Hazerta - *2020*
 
 - *Computing essentials & Networking essentials* @[Pluralsight](https://app.pluralsight.com/paths/skill/fundamentals-of-it-operations-skill) - *2020*
 
 - *Qlik Sense for analysts* path @[Pluralsight](https://app.pluralsight.com/paths/skill/qlik-sense-for-analysts) - *2020*
-<!-- - *Javascript algorithms and data structures* certification @
-freeCodeCamp 
-*PRESENT* -->
 
 - *Intro to SQL: Querying and managing data* @[KahnAcademy](https://www.khanacademy.org/computing/computer-programming/sql) - *2020*
 
-- *Web design and deployment* ([Spain's IFCD0110 certification](https://sede.sepe.gob.es/especialidadesformativas/RXBuscadorEFRED/DetalleEspecialidadFormativa.do?codEspecialidad=IFCD0110)) @Hazerta - *2019*
+- *Web design and deployment* ([Spain's IFCD0110 cert.](https://sede.sepe.gob.es/especialidadesformativas/RXBuscadorEFRED/DetalleEspecialidadFormativa.do?codEspecialidad=IFCD0110)) @Hazerta - *2019*
 
 
-- *Responsive web design* certification @[freeCodeCamp](https://www.freecodecamp.org/certification/adrianskar/responsive-web-design)  - *2018*
 - [More](further%20edu.md)
-
+<!-- - *Javascript algorithms and data structures* certification @
+freeCodeCamp 
+*PRESENT* -->
 ___
 
 - [Printable version](ResumeAdskar_print.pdf)
 - ["Fancy" test](ResumeAdskar_fancy_test.pdf)
-
-___
-
-`Icons 

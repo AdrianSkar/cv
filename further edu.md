@@ -1,7 +1,10 @@
 # Extended education info
 
 
-2017 and earlier:
+2018 and earlier:
+
+- *Responsive web design* certification @[freeCodeCamp](https://www.freecodecamp.org/certification/adrianskar/responsive-web-design)
+<!-- 2018 -->
 
 - *Learn Git + Learn the command line* @[CodeCademy](https://www.codecademy.com/learn/learn-git) 
 <!-- JAN 2016 -->

@@ -22,7 +22,7 @@ services.
 
 ## Education
 
-- *Git, GitHub & SourceTree* @[Keepcoding](https://plataforma.keepcoding.io/p/curso-git-github-sourcetree) - *Present*
+- *Git, GitHub & SourceTree* @[Keepcoding](https://plataforma.keepcoding.io/p/curso-git-github-sourcetree) - *2020*
   
 - *BBDD relacionales, SQL & MySQL* @[Keepcoding](https://plataforma.keepcoding.io/p/curso-bbdd-sql-mysql) - *2020*
 

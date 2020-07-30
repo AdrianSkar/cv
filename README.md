@@ -34,7 +34,7 @@ services.
 
 - *Intro to SQL: Querying and managing data* @[KahnAcademy](https://www.khanacademy.org/computing/computer-programming/sql) - *2020*
 
-- *Web design and deployment* ([Spain's IFCD0110 cert.](https://sede.sepe.gob.es/especialidadesformativas/RXBuscadorEFRED/DetalleEspecialidadFormativa.do?codEspecialidad=IFCD0110)) @Hazerta - *2019*
+- *Web development and deployment* ([Spain's IFCD0110 cert.](https://sede.sepe.gob.es/especialidadesformativas/RXBuscadorEFRED/DetalleEspecialidadFormativa.do?codEspecialidad=IFCD0110)) @Hazerta - *2019*
 
 
 - [More](further%20edu.md)

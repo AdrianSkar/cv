@@ -32,5 +32,5 @@ Kong University of science and technology (attended through
 (Attended through their OpenCourseWare)
 <!-- JUL - AUG 2011 -->
 
-- *Web layout and e-commerce* @ESINE
+- *Web design and e-commerce* @ESINE
 <!-- 2006-2008 -->

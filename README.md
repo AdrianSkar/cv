@@ -22,6 +22,8 @@ services.
 
 ## Education
 
+- *JavaScript algorithms and data structures certification* @[freeCodeCamp](https://www.freecodecamp.org/learn) - *Present*
+  
 - *Git, GitHub & SourceTree* @[Keepcoding](https://plataforma.keepcoding.io/p/curso-git-github-sourcetree) - *2020*
   
 - *BBDD relacionales, SQL & MySQL* @[Keepcoding](https://plataforma.keepcoding.io/p/curso-bbdd-sql-mysql) - *2020*
@@ -34,7 +36,6 @@ services.
 
 - *Intro to SQL: Querying and managing data* @[KahnAcademy](https://www.khanacademy.org/computing/computer-programming/sql) - *2020*
 
-- *Web development and deployment* ([Spain's IFCD0110 cert.](https://sede.sepe.gob.es/especialidadesformativas/RXBuscadorEFRED/DetalleEspecialidadFormativa.do?codEspecialidad=IFCD0110)) @Hazerta - *2019*
 
 
 - [More](further%20edu.md)

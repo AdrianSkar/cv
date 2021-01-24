@@ -1,7 +1,12 @@
 # Extended education info
 
 
-2019 and earlier:
+2020:
+
+- *Qlik Sense for analysts* path @[Pluralsight](https://app.pluralsight.com/paths/skill/qlik-sense-for-analysts)
+<!-- 2020 -->
+
+2019  and earlier:
 
 - *Web development and deployment* ([Spain's IFCD0110 cert.](https://sede.sepe.gob.es/especialidadesformativas/RXBuscadorEFRED/DetalleEspecialidadFormativa.do?codEspecialidad=IFCD0110)) @Hazerta
 <!-- 2019 -->

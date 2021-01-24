@@ -22,7 +22,9 @@ services.
 
 ## Education
 
-- *JavaScript algorithms and data structures certification* @[freeCodeCamp](https://www.freecodecamp.org/learn) - *Present*
+- *CS50's web programming with Python and JavaScript* @[Harvard/edX](https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript) - *Present*
+  
+- *JavaScript algorithms and data structures certification* @[freeCodeCamp](https://www.freecodecamp.org/certification/adrianskar/javascript-algorithms-and-data-structures) - *2021*
   
 - *Git, GitHub & SourceTree* @[Keepcoding](https://plataforma.keepcoding.io/p/curso-git-github-sourcetree) - *2020*
   
@@ -31,8 +33,6 @@ services.
 - *Data warehousing & BI* ([Spain's IFCD013PO cert.](http://www.madrid.org/sfoc_web/2016/IFCD013PO.pdf)) @Hazerta - *2020*
 
 - *Computing essentials & Networking essentials* @[Pluralsight](https://app.pluralsight.com/paths/skill/fundamentals-of-it-operations-skill) - *2020*
-
-- *Qlik Sense for analysts* path @[Pluralsight](https://app.pluralsight.com/paths/skill/qlik-sense-for-analysts) - *2020*
 
 - *Intro to SQL: Querying and managing data* @[KahnAcademy](https://www.khanacademy.org/computing/computer-programming/sql) - *2020*
 

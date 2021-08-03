@@ -14,15 +14,15 @@ translation services (contractor).
 - **Self-employed**​ - Web design and development
 services.
 *2017 - PRESENT*
-	- [Adrianskar.com​](https://adrianskar.com): Logo design, site currently under development.
-	- [Natural-acupuncture.com​](https://natural-acupuncture.com/), ​[acupunturanatural.com​](https://web.archive.org/web/20190112201615/https://acupunturanatural.com/),
+	- [adrianskar.com​](https://adrianskar.com): Logo design, site currently under development.
+	- [natural-acupuncture.com​](https://natural-acupuncture.com/), ​[acupunturanatural.com​](https://web.archive.org/web/20190112201615/https://acupunturanatural.com/),
 [acupuntura-natural-colombia.com​](https://acupuntura-natural-colombia.com/): Performance and SEO optimization, site migration and set-up, maintenance and advice.
-	- [Sanadayana.com](https://web.archive.org/web/20171020115041/https://sanadayana.com/): Logo design and advice for local business.
-	- [Luisbomati.es](http://luisbomati.es/​): Logo design, site design and development.
+	- [sanadayana.com](https://web.archive.org/web/20171020115041/https://sanadayana.com/): Logo design and advice for local business.
+	- [luisbomati.es](http://luisbomati.es/​): Logo design, site design and development.
 
 ## Education
 
-- *CS50's web programming with Python and JavaScript* @[Harvard/edX](https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript) - *Present*
+- *CS50's web programming with Python and JavaScript* @[Harvard/edX](https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript) - *2021*
   
 - *JavaScript algorithms and data structures certification* @[freeCodeCamp](https://www.freecodecamp.org/certification/adrianskar/javascript-algorithms-and-data-structures) - *2021*
   
@@ -39,9 +39,7 @@ services.
 
 
 - [More](further%20edu.md)
-<!-- - *Javascript algorithms and data structures* certification @
-freeCodeCamp 
-*PRESENT* -->
+
 ___
 
 - [Printable version](ResumeAdskar_print.pdf)

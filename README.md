@@ -1,13 +1,13 @@
 
 ![Adrian Skar](images/adskar-black.svg)
 
-Hi! I’m a self-taught web developer with more than 5 years of experience working remotely both with companies and individual clients looking forward to learn and work with new languages and teams. 
+<p style="text-align: center;">HTML - CSS - JS - GIT - SQL</p>
 
-HTML - CSS - JS - GIT - SQL
+Hi! I'm Adrian. I've been working remotely for more than 9 years on search engines and with several clients on web design and development as a freelancer. I spend my time learning web technologies on different platforms and I look forward to working on new projects and being part of a great team.
 
 ## Experience
 
-- **Lionbridge Technologies, Inc**​ - Search engine evaluation and
+- **Lionbridge Technologies, Inc. / Telus International**​ - Search engine evaluation and
 translation services (contractor).
 *2011 - PRESENT*
 

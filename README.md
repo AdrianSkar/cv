@@ -22,7 +22,7 @@ services.
 
 ## Education
 
-- *CS50's web programming with Python and JavaScript* @[Harvard/edX](https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript) - *2021*
+- *CS50's web programming with Python and JavaScript* @[Harvard/edX](https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript) | [Final project](https://github.com/AdrianSkar/CS50W_capstone) - *2021*
   
 - *JavaScript algorithms and data structures certification* @[freeCodeCamp](https://www.freecodecamp.org/certification/adrianskar/javascript-algorithms-and-data-structures) - *2021*
   

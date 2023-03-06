@@ -44,3 +44,4 @@ ___
 
 - [Printable version](ResumeAdskar_print.pdf)
 - ["Fancy" test](ResumeAdskar_fancy_test.pdf)
+- [🇪🇸 Versión en Castellano](https://github.com/AdrianSkar/cv/tree/es)

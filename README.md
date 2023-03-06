@@ -20,19 +20,19 @@ Hola! Me llamo Adrian y llevo más de 10 años trabajando de forma remota con bu
 
 ## Educación
 
-- *CS50's web programming with Python and JavaScript* @[Harvard/edX](https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript) | [Final project](https://github.com/AdrianSkar/CS50W_capstone) - *2021*
+- *CS50: Programación web con Python y JavaScript* @[Harvard/edX](https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript) | [Final project](https://github.com/AdrianSkar/CS50W_capstone) - *2021*
   
-- *JavaScript algorithms and data structures certification* @[freeCodeCamp](https://www.freecodecamp.org/certification/adrianskar/javascript-algorithms-and-data-structures) - *2021*
+- *Certificación de algoritmos y estructuras de datos con JavaScript* @[freeCodeCamp](https://www.freecodecamp.org/certification/adrianskar/javascript-algorithms-and-data-structures) - *2021*
   
 - *Git, GitHub & SourceTree* @[Keepcoding](https://plataforma.keepcoding.io/p/curso-git-github-sourcetree) - *2020*
   
 - *BBDD relacionales, SQL & MySQL* @[Keepcoding](https://plataforma.keepcoding.io/p/curso-bbdd-sql-mysql) - *2020*
 
-- *Data warehousing & BI* ([Spain's IFCD013PO cert.](http://www.madrid.org/sfoc_web/2016/IFCD013PO.pdf)) @Hazerta - *2020*
+- *Almacenamiento de datos & BI* ([Certificación IFCD013PO](http://www.madrid.org/sfoc_web/2016/IFCD013PO.pdf)) @Hazerta - *2020*
 
-- *Computing essentials & Networking essentials* @[Pluralsight](https://app.pluralsight.com/paths/skill/fundamentals-of-it-operations-skill) - *2020*
+- *Conceptos básicos de informática y redes* @[Pluralsight](https://app.pluralsight.com/paths/skill/fundamentals-of-it-operations-skill) - *2020*
 
-- *Intro to SQL: Querying and managing data* @[KahnAcademy](https://www.khanacademy.org/computing/computer-programming/sql) - *2020*
+- *Intro a SQL: consulta y gestión de datos* @[KahnAcademy](https://www.khanacademy.org/computing/computer-programming/sql) - *2020*
 
 
 

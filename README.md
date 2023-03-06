@@ -40,5 +40,4 @@ Hola! Me llamo Adrian y llevo más de 10 años trabajando de forma remota con bu
 
 ___
 
-- [Versión imprimible](ResumeAdskar_print.pdf)
-- [Alternativo](ResumeAdskar_fancy_test.pdf)
+- [Versión imprimible](./ResumeAds-ES.pdf)

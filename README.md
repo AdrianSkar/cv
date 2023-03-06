@@ -41,3 +41,4 @@ Hola! Me llamo Adrian y llevo más de 10 años trabajando de forma remota con bu
 ___
 
 - [Versión imprimible](./ResumeAds-ES.pdf)
+- [🇬🇧 English version](https://github.com/AdrianSkar/cv)

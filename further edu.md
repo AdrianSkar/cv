@@ -1,41 +1,41 @@
-# Extended education info
+# Información de educación extendida
 
 
 2020:
 
-- *Qlik Sense for analysts* path @[Pluralsight](https://app.pluralsight.com/paths/skill/qlik-sense-for-analysts)
+- *Qlik Sense para analistas* path @[Pluralsight](https://app.pluralsight.com/paths/skill/qlik-sense-for-analysts)
 <!-- 2020 -->
 
-2019  and earlier:
+2019 y anterior:
 
-- *Web development and deployment* ([Spain's IFCD0110 cert.](https://sede.sepe.gob.es/especialidadesformativas/RXBuscadorEFRED/DetalleEspecialidadFormativa.do?codEspecialidad=IFCD0110)) @Hazerta
+- *Desarrollo y publicación de páginas web* ([Certificación IFCD0110](https://sede.sepe.gob.es/especialidadesformativas/RXBuscadorEFRED/DetalleEspecialidadFormativa.do?codEspecialidad=IFCD0110)) @Hazerta
 <!-- 2019 -->
 
-- *Responsive web design* certification @[freeCodeCamp](https://www.freecodecamp.org/certification/adrianskar/responsive-web-design)
+- Certificación *Diseño web responsive* @[freeCodeCamp](https://www.freecodecamp.org/certification/adrianskar/responsive-web-design)
 <!-- 2018 -->
 
-- *Learn Git + Learn the command line* @[CodeCademy](https://www.codecademy.com/learn/learn-git) 
+- *Aprender Git + Aprender la línea de comandos* @[CodeCademy](https://www.codecademy.com/learn/learn-git) 
 <!-- JAN 2016 -->
 
-- *Front-end web UI frameworks* and tools (mainly Bootstrap) [@Hong
-Kong University of science and technology/Coursera](https://www.coursera.org/learn/web-frameworks/home/info)
+- *Marcos y herramientas de interfaz de usuario web front-end* (enfocado a Bootstrap) [@Universidad de ciencia y tecnología de Hong Kong/Coursera](https://www.coursera.org/learn/web-frameworks/home/info)
+
 <!-- FEB - MAR 2016 -->
 
-- *Succeed in the English B1 exam* @[UNED/ECOlearning.eu](https://canal.uned.es/series/5a6f8785b1111f695e8b4569)
+- *Inglés B1* @[UNED/ECOlearning.eu](https://canal.uned.es/series/5a6f8785b1111f695e8b4569)
 <!-- Nov - Dec 2015  -->
 
-- *Intro. to webapps development with HTML5, CSS and JS + FirefoxOS (4th edition)*
+- *Introducción al desarrollo de webapps con HTML5, CSS y JS + FirefoxOS (4ª edición)*
 @Universidad Politécnica de Madrid ([MiriadaX](https://miriadax.net/web/firefox-os-2edicion)) 
 <!-- MAR - MAY 2013  -->
 
-- *Social network analysis* @University of Michigan/Coursera
+- *Análisis de redes sociales* @Universidad de Michigan/Coursera
 <!-- Aug - Sep 2011 -->
 
-- *CSCI E-12 Fundamentals of website development* @[Harvard](https://cscie12.dce.harvard.edu/lecture_notes/2011/20110126/handout.html) UES/OpenCourseWare
+- *CSCI E-12 Fundamentos del desarrollo web* @[Harvard](https://cscie12.dce.harvard.edu/lecture_notes/2011/20110126/handout.html) UES/OpenCourseWare
 <!-- AUG - SEP 2011 -->
 
-- *CSCI E-1 Understanding computers and the Internet* @[Harvard](http://computerscience1.tv/2011/spring/) UES/OpenCourseWare
+- *CSCI E-1 Comprendiendo ordenadores e Internet* @[Harvard](http://computerscience1.tv/2011/spring/) UES/OpenCourseWare
 <!-- JUL - AUG 2011 -->
 
-- *Web design and e-commerce* @ESINE
+- *Diseño web y comercio electrónico* @ESINE
 <!-- 2006-2008 -->

@@ -3,24 +3,23 @@
 
 <p style="text-align: center;">HTML - CSS - JS - GIT - SQL</p>
 
-Hi! I'm Adrian. I've been working remotely for more than 9 years on search engines and with several clients on web design and development as a freelancer. I spend my time learning web technologies on different platforms and I look forward to working on new projects and being part of a great team.
+Hola! Me llamo Adrian y llevo más de 10 años trabajando de forma remota con buscadores, control de calidad y traduccióñ. También he trabajado con clientes tanto en diseño y desarrollo web como freelance. Dedico mi tiempo a aprender tecnologías web en diferentes plataformas y busco trabajar en nuevos proyectos y ser parte de un gran equipo.
 
-## Experience
+## Experiencia
 
-- **Lionbridge Technologies, Inc. / Telus International**​ - Search engine evaluation and
-translation services (contractor).
-*2011 - PRESENT*
+- **Lionbridge Technologies, Inc. / Telus International**​ - Evaluación y control de calidad de motores de búsqueda. Traducción.
+*2011 - PRESENTE*
 
-- **Self-employed**​ - Web design and development
-services.
-*2017 - PRESENT*
-	- [adrianskar.com​](https://adrianskar.com): Logo design, site currently under development.
+- **Freelance**​ - Diseño, asesoramiento y desarrollo web.
+*2017 - PRESENTE*
+	- [adrianskar.com​](https://adrianskar.com): Diseño de logo, en desarrollo.
 	- [natural-acupuncture.com​](https://natural-acupuncture.com/), ​[acupunturanatural.com​](https://web.archive.org/web/20190112201615/https://acupunturanatural.com/),
 [acupuntura-natural-colombia.com​](https://acupuntura-natural-colombia.com/): Performance and SEO optimization, site migration and set-up, maintenance and advice.
-	- [sanadayana.com](https://web.archive.org/web/20171020115041/https://sanadayana.com/): Logo design and advice for local business.
-	- [luisbomati.es](http://luisbomati.es/​): Logo design, site design and development.
+Optimización SEO y de rendimiento, migración de sitios, hosting, mantenimiento y asesoramiento.
+	- [sanadayana.com](https://web.archive.org/web/20171020115041/https://sanadayana.com/): Diseño de logo, puesta en marcha y asesoramiento a negocios locales.
+	- [luisbomati.es](http://luisbomati.es/​): Diseño de logo, sitio y desarrollo web.
 
-## Education
+## Educación
 
 - *CS50's web programming with Python and JavaScript* @[Harvard/edX](https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript) | [Final project](https://github.com/AdrianSkar/CS50W_capstone) - *2021*
   
@@ -38,9 +37,9 @@ services.
 
 
 
-- [More](further%20edu.md)
+- [Más](further%20edu.md)
 
 ___
 
-- [Printable version](ResumeAdskar_print.pdf)
-- ["Fancy" test](ResumeAdskar_fancy_test.pdf)
+- [Versión imprimible](ResumeAdskar_print.pdf)
+- [Alternativo](ResumeAdskar_fancy_test.pdf)

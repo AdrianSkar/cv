@@ -3,15 +3,14 @@
 
 <p style="text-align: center;">HTML - CSS - JS - GIT - SQL</p>
 
-Hi! I'm Adrian. I've been working remotely for more than 9 years on search engines and with several clients on web design and development as a freelancer. I spend my time learning web technologies on different platforms and I look forward to working on new projects and being part of a great team.
+Hi! I'm Adrian. I've been working remotely for more than 10 years on search engines and with several clients on web design and development as a freelancer. I spend my time learning web technologies on different platforms and I look forward to working on new projects and being part of a great team.
 
 ## Experience
 
-- **Lionbridge Technologies, Inc. / Telus International**​ - Search engine evaluation and
-translation services (contractor).
+- **Lionbridge Technologies, Inc. / Telus International**​ - Search engine evaluation and translation services.
 *2011 - PRESENT*
 
-- **Self-employed**​ - Web design and development
+- **Self-employed**​ - Web design and development.
 services.
 *2017 - PRESENT*
 	- [adrianskar.com​](https://adrianskar.com): Logo design, site currently under development.
@@ -21,7 +20,10 @@ services.
 	- [luisbomati.es](http://luisbomati.es/​): Logo design, site design and development.
 
 ## Education
+- *Focusing on JavaScript, Astro & React* @[independent](https://github.com/AdrianSkar) - *2023*
 
+- *JS30’s vanilla Javascript challenge* @[WesBos’s](https://javascript30.com/) - *2023*
+  
 - *CS50's web programming with Python and JavaScript* @[Harvard/edX](https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript) | [Final project](https://github.com/AdrianSkar/CS50W_capstone) - *2021*
   
 - *JavaScript algorithms and data structures certification* @[freeCodeCamp](https://www.freecodecamp.org/certification/adrianskar/javascript-algorithms-and-data-structures) - *2021*
@@ -33,9 +35,6 @@ services.
 - *Data warehousing & BI* ([Spain's IFCD013PO cert.](http://www.madrid.org/sfoc_web/2016/IFCD013PO.pdf)) @Hazerta - *2020*
 
 - *Computing essentials & Networking essentials* @[Pluralsight](https://app.pluralsight.com/paths/skill/fundamentals-of-it-operations-skill) - *2020*
-
-- *Intro to SQL: Querying and managing data* @[KahnAcademy](https://www.khanacademy.org/computing/computer-programming/sql) - *2020*
-
 
 
 - [More](further%20edu.md)

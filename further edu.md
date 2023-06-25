@@ -1,13 +1,13 @@
 # Extended education info
 
-
-2020:
+2020  and earlier:
 
 - *Qlik Sense for analysts* path @[Pluralsight](https://app.pluralsight.com/paths/skill/qlik-sense-for-analysts)
-<!-- 2020 -->
+<!-- - *2020* -->
 
-2019  and earlier:
-
+- *Intro to SQL: Querying and managing data* @[KahnAcademy](https://www.khanacademy.org/computing/computer-programming/sql) 
+<!-- - *2020* -->
+  
 - *Web development and deployment* ([Spain's IFCD0110 cert.](https://sede.sepe.gob.es/especialidadesformativas/RXBuscadorEFRED/DetalleEspecialidadFormativa.do?codEspecialidad=IFCD0110)) @Hazerta
 <!-- 2019 -->
 

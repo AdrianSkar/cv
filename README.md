@@ -20,6 +20,10 @@ Hola! Me llamo Adrian y llevo más de 10 años trabajando de forma remota con bu
 
 ## Educación
 
+- *Aprendiendo JavaScript, Astro & React* @[independent](https://github.com/AdrianSkar) - *2023*
+
+- *JS30’s vanilla Javascript challenge* @[WesBos’s](https://javascript30.com/) - *2023*
+
 - *CS50: Programación web con Python y JavaScript* @[Harvard/edX](https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript) | [Final project](https://github.com/AdrianSkar/CS50W_capstone) - *2021*
   
 - *Certificación de algoritmos y estructuras de datos con JavaScript* @[freeCodeCamp](https://www.freecodecamp.org/certification/adrianskar/javascript-algorithms-and-data-structures) - *2021*
@@ -31,9 +35,6 @@ Hola! Me llamo Adrian y llevo más de 10 años trabajando de forma remota con bu
 - *Almacenamiento de datos & BI* ([Certificación IFCD013PO](http://www.madrid.org/sfoc_web/2016/IFCD013PO.pdf)) @Hazerta - *2020*
 
 - *Conceptos básicos de informática y redes* @[Pluralsight](https://app.pluralsight.com/paths/skill/fundamentals-of-it-operations-skill) - *2020*
-
-- *Intro a SQL: consulta y gestión de datos* @[KahnAcademy](https://www.khanacademy.org/computing/computer-programming/sql) - *2020*
-
 
 
 - [Más](further%20edu.md)

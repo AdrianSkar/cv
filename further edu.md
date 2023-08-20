@@ -1,6 +1,6 @@
 # Extended education info
 
-2020  and earlier:
+### 2020  and earlier:
 
 - *Qlik Sense for analysts* path @[Pluralsight](https://app.pluralsight.com/paths/skill/qlik-sense-for-analysts)
 <!-- - *2020* -->
@@ -39,3 +39,7 @@ Kong University of science and technology/Coursera](https://www.coursera.org/lea
 
 - *Web design and e-commerce* @ESINE
 <!-- 2006-2008 -->
+
+### Others:
+
+- *Learning how to learn* @[Coursera](https://www.coursera.org/learn/learning-how-to-learn?courseSlug=learning-how-to-learn&showOnboardingModal=check) - *2023*

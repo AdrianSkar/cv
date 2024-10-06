@@ -13,7 +13,7 @@ Hi! I'm Adrian. I've been working remotely for more than 10 years on search engi
 - **Self-employed**​ - Web design and development.
 services.
 *2017 - 2019*
-	- [adrianskar.com​](https://adrianskar.com): Logo design, site currently under development.
+	- [adrianskar.com​](https://dev.adrianskar.com): Logo design, site currently under development.
 	- [natural-acupuncture.com​](https://natural-acupuncture.com/), ​[acupunturanatural.com​](https://web.archive.org/web/20190112201615/https://acupunturanatural.com/),
 [acupuntura-natural-colombia.com​](https://acupuntura-natural-colombia.com/): Performance and SEO optimization, site migration and set-up, maintenance and advice.
 	- [sanadayana.com](https://web.archive.org/web/20171020115041/https://sanadayana.com/): Logo design and advice for local business.

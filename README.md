@@ -7,12 +7,12 @@ Hi! I'm Adrian. I've been working remotely for more than 10 years on search engi
 
 ## Experience
 
-- **Lionbridge Technologies, Inc. / Telus International**​ - Search engine evaluation and translation services.
-*2011 - PRESENT*
+- **Lionbridge Technologies, Inc. / Telus International**​ - Search engine evaluation (QA) and translation services.
+*2011 - 2024*
 
 - **Self-employed**​ - Web design and development.
 services.
-*2017 - PRESENT*
+*2017 - 2019*
 	- [adrianskar.com​](https://adrianskar.com): Logo design, site currently under development.
 	- [natural-acupuncture.com​](https://natural-acupuncture.com/), ​[acupunturanatural.com​](https://web.archive.org/web/20190112201615/https://acupunturanatural.com/),
 [acupuntura-natural-colombia.com​](https://acupuntura-natural-colombia.com/): Performance and SEO optimization, site migration and set-up, maintenance and advice.
@@ -20,7 +20,7 @@ services.
 	- [luisbomati.es](http://luisbomati.es/​): Logo design, site design and development.
 
 ## Education
-- *Focusing on JavaScript, Astro & React* @[independent](https://github.com/AdrianSkar) - *2023*
+- *Computer science/programming* @[42Madrid](https://www.42madrid.com/en/) - *2024*
 
 - *JS30’s vanilla Javascript challenge* @[WesBos’s](https://javascript30.com/) - *2023*
   

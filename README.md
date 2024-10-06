@@ -12,7 +12,7 @@ Hola! Me llamo Adrian y llevo más de 10 años trabajando de forma remota con bu
 
 - **Freelance**​ - Diseño, asesoramiento y desarrollo web.
 *2017 - 2019*
-	- [adrianskar.com​](https://adrianskar.com): Diseño de logo, en desarrollo.
+	- [adrianskar.com​](https://dev.adrianskar.com): Diseño de logo, en desarrollo.
 	- [natural-acupuncture.com​](https://natural-acupuncture.com/), ​[acupunturanatural.com​](https://web.archive.org/web/20190112201615/https://acupunturanatural.com/),
 [acupuntura-natural-colombia.com​](https://acupuntura-natural-colombia.com/): Optimización SEO y de rendimiento, migración de sitios, hosting, mantenimiento y asesoramiento.
 	- [sanadayana.com](https://web.archive.org/web/20171020115041/https://sanadayana.com/): Diseño de logo, puesta en marcha y asesoramiento a negocios locales.

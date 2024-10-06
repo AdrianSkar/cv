@@ -10,8 +10,7 @@ Hi! I'm Adrian. I've been working remotely for more than 10 years on search engi
 - **Lionbridge Technologies, Inc. / Telus International**​ - Search engine evaluation (QA) and translation services.
 *2011 - 2024*
 
-- **Self-employed**​ - Web design and development.
-services.
+- **Freelance**​ - Web design and development services.
 *2017 - 2019*
 	- [adrianskar.com​](https://dev.adrianskar.com): Logo design, site currently under development.
 	- [natural-acupuncture.com​](https://natural-acupuncture.com/), ​[acupunturanatural.com​](https://web.archive.org/web/20190112201615/https://acupunturanatural.com/),

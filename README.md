@@ -1,7 +1,7 @@
 
 ![Adrian Skar](images/adskar-black.svg)
 
-<p style="text-align: center;">HTML - CSS - JS - GIT - SQL</p>
+<p style="text-align: center;">C - HTML - CSS - JS - GIT - SQL</p>
 
 Hi! I'm Adrian. I've been working remotely for more than 10 years on search engines and with several clients on web design and development as a freelancer. I spend my time learning web technologies on different platforms and I look forward to working on new projects and being part of a great team.
 
@@ -19,7 +19,7 @@ Hi! I'm Adrian. I've been working remotely for more than 10 years on search engi
 	- [luisbomati.es](http://luisbomati.es/​): Logo design, site design and development.
 
 ## Education
-- *Computer science/programming* @[42Madrid](https://www.42madrid.com/en/) - *2024*
+- *Computer science/programming* @[42Madrid](https://www.42madrid.com/en/) - *2024 - PRESENT*
 
 - *JS30’s vanilla Javascript challenge* @[WesBos’s](https://javascript30.com/) - *2023*
   
@@ -40,6 +40,6 @@ Hi! I'm Adrian. I've been working remotely for more than 10 years on search engi
 
 ___
 
-- [Printable version](ResumeAdskar_print.pdf)
+- [Printable version](Adrian_cv_print.pdf)
 - [🇪🇸 Versión en Castellano](https://github.com/AdrianSkar/cv/tree/es)
 <!-- - ["Fancy" test](ResumeAdskar_fancy_test.pdf) -->

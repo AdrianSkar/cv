@@ -1,9 +1,9 @@
 
 ![Adrian Skar](images/adskar-black.svg)
 
-<p style="text-align: center;">HTML - CSS - JS - GIT - SQL</p>
+<p style="text-align: center;">C - HTML - CSS - JS - GIT - SQL</p>
 
-Hola! Me llamo Adrian y llevo más de 10 años trabajando de forma remota con buscadores, control de calidad y traducción. También he trabajado con clientes independientes en diseño y desarrollo web como freelance. Dedico mi tiempo a aprender tecnologías web en diferentes plataformas y busco trabajar en nuevos proyectos y ser parte de un gran equipo.
+Hola! Me llamo Adrián y llevo más de 10 años trabajando de forma remota con buscadores, control de calidad y traducción. También he trabajado con clientes independientes en diseño y desarrollo web como freelance. Dedico mi tiempo a aprender tecnologías web en diferentes plataformas y busco trabajar en nuevos proyectos y ser parte de un gran equipo.
 
 ## Experiencia
 

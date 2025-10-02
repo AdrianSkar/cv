@@ -1,6 +1,13 @@
 ![Adrian Skar](images/adskar-black.svg)
 
-<p style="text-align: center;"><strong>Desarrollador full-stack | Programador en C | Estudiante</strong></p>
+<p style="text-align: c## 🎓 Educación
+
+### 42 Madrid
+**Estudiante de ingeniería de software** | 2024 - Presente
+- Currículo básico en programación C
+- Enfoque en algoritmos, estructuras de datos y programación de sistemas
+
+### Harvard CS50Wstrong>Desarrollador full-stack | Programador en C | Estudiante</strong></p>
 
 <p style="text-align: center;">HTML - CSS - JS - GIT - SQL - C</p>
 

@@ -50,10 +50,13 @@
 ## 🚀 Proyectos destacados
 
 ### Proyectos en 42 Madrid
-- **[libft](https://github.com/AdrianSkar/42-libft)** - Implementación de librería estándar de C personalizada (43 funciones)
-- **[get_next_line](https://github.com/AdrianSkar/42-get_next_line)** - Lectura eficiente de archivos con listas enlazadas
-- **[ft_printf](https://github.com/AdrianSkar/42-printf)** - Reimplementación de la función printf
-- **[Born2beRoot](https://github.com/AdrianSkar/42-b2br)** - Administración de sistemas con Debian, SSH y seguridad
+- **[libft](https://github.com/AdrianSkar/42-libft)** - Librería C personalizada que cubre manipulación de strings, operaciones de memoria, listas enlazadas y E/S. Enfocada en seguridad de memoria, manejo de errores y comprensión de la librería estándar.
+
+- **[get_next_line](https://github.com/AdrianSkar/42-get_next_line)** - Lector de archivos línea por línea usando listas enlazadas para soporte multi-descriptor. Implementa gestión eficiente de buffers y variables estáticas para persistencia de estado.
+
+- **[ft_printf](https://github.com/AdrianSkar/42-printf)** - Reimplementación de printf usando tablas de despacho con punteros a función y funciones variádicas. Maneja 9 especificadores de formato con conversión de tipos y operaciones de base.
+
+- **[Born2beRoot](https://github.com/AdrianSkar/42-b2br)** - Configuración de servidor Debian seguro con LVM cifrado, endurecimiento SSH, firewall UFW, políticas sudo y script automatizado de monitoreo del sistema.
 
 ### Desarrollo web
 - **[Devvy](https://github.com/AdrianSkar/CS50W_capstone)** - Plataforma de referencia para desarrolladores (Django + JavaScript)

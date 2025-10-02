@@ -49,11 +49,14 @@ Hi! I'm Adrian, a software developer with 12+ years of remote work experience. C
 
 ## 🚀 Featured projects
 
-### 42 School projects
-- **[libft](https://github.com/AdrianSkar/42-libft)** - Custom C standard library implementation (43 functions)
-- **[get_next_line](https://github.com/AdrianSkar/42-get_next_line)** - Efficient file reading with linked lists
-- **[ft_printf](https://github.com/AdrianSkar/42-printf)** - Printf function reimplementation
-- **[Born2beRoot](https://github.com/AdrianSkar/42-b2br)** - System administration with Debian, SSH, and security
+### 42 projects
+- **[libft](https://github.com/AdrianSkar/42-libft)** - Custom C library covering string manipulation, memory operations, linked lists, and I/O. Focuses on memory safety, proper error handling, and understanding standard library internals.
+
+- **[get_next_line](https://github.com/AdrianSkar/42-get_next_line)** - Line-by-line file reader using linked lists for multi-file descriptor support. Implements efficient buffer management and static variables for state persistence.
+
+- **[ft_printf](https://github.com/AdrianSkar/42-printf)** - Printf reimplementation using function pointer dispatch tables and variadic functions. Handles 9 format specifiers with proper type conversion and base operations.
+
+- **[Born2beRoot](https://github.com/AdrianSkar/42-b2br)** - Secure Debian server setup with encrypted LVM, SSH hardening, UFW firewall, sudo policies, and automated system monitoring script.
 
 ### Web development
 - **[Devvy](https://github.com/AdrianSkar/CS50W_capstone)** - Developer reference platform (Django + JavaScript)

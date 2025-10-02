@@ -67,7 +67,6 @@ Hi! I'm Adrian, a software developer with 12+ years of remote work experience. C
 ### 42 Madrid
 **Software engineering student** | 2024 - Present
 - Core curriculum in C programming
-- Projects: [libft](https://github.com/AdrianSkar/42-libft), [get_next_line](https://github.com/AdrianSkar/42-get_next_line), [ft_printf](https://github.com/AdrianSkar/42-printf)
 - Focus on algorithms, data structures, and systems programming
 
 ### Harvard CS50W

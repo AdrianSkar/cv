@@ -1,0 +1,34 @@
+# AI Agent workflow documentation (kept local)# AI Agent workflow documentation (kept local)
+
+AGENTS.mdAGENTS.md
+
+
+
+# IDE and editor files# IDE and editor files
+
+.vscode/.vscode/
+
+.idea/.idea/
+
+*.swp*.swp
+
+*.swo*.swo
+
+*~*~
+
+
+
+# OS files# OS files
+
+.DS_Store.DS_Store
+
+Thumbs.dbThumbs.db
+
+
+
+# Temporary files# Temporary files
+
+*.tmp*.tmp
+
+*.bak*.bak
+

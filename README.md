@@ -52,7 +52,7 @@ Hi! I'm Adrian, a software developer with 12+ years of remote work experience. C
 ### 42 School projects
 - **[libft](https://github.com/AdrianSkar/42-libft)** - Custom C standard library implementation (43 functions)
 - **[get_next_line](https://github.com/AdrianSkar/42-get_next_line)** - Efficient file reading with linked lists
-- **[ft_printf](https://github.com/AdrianSkar/42-ft_printf)** - Printf function reimplementation
+- **[ft_printf](https://github.com/AdrianSkar/42-printf)** - Printf function reimplementation
 
 ### Web development
 - **[Devvy](https://github.com/AdrianSkar/CS50W_capstone)** - Developer reference platform (Django + JavaScript)

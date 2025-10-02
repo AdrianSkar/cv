@@ -53,6 +53,7 @@
 - **[libft](https://github.com/AdrianSkar/42-libft)** - Implementación de librería estándar de C personalizada (43 funciones)
 - **[get_next_line](https://github.com/AdrianSkar/42-get_next_line)** - Lectura eficiente de archivos con listas enlazadas
 - **[ft_printf](https://github.com/AdrianSkar/42-printf)** - Reimplementación de la función printf
+- **[42-b2br](https://github.com/AdrianSkar/42-b2br)** - Administración de sistemas con Debian, SSH y seguridad
 
 ### Desarrollo web
 - **[Devvy](https://github.com/AdrianSkar/CS50W_capstone)** - Plataforma de referencia para desarrolladores (Django + JavaScript)

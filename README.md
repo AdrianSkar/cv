@@ -30,7 +30,7 @@
 ### Lionbridge Technologies / Telus International
 **Evaluador de motores de búsqueda y traductor** | 2011 - 2024
 - Más de 13 años de experiencia en trabajo remoto
-- Control de calidad y evaluación para grandes motores de búsqueda
+- Control de calidad y evaluación para motores de búsqueda
 - Servicios de traducción manteniendo altos estándares de precisión
 
 ### Desarrollador web freelance
@@ -49,7 +49,7 @@
 
 ## 🚀 Proyectos destacados
 
-### Proyectos de 42 School
+### Proyectos en 42 Madrid
 - **[libft](https://github.com/AdrianSkar/42-libft)** - Implementación de librería estándar de C personalizada (43 funciones)
 - **[get_next_line](https://github.com/AdrianSkar/42-get_next_line)** - Lectura eficiente de archivos con listas enlazadas
 - **[ft_printf](https://github.com/AdrianSkar/42-ft_printf)** - Reimplementación de la función printf

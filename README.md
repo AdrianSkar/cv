@@ -52,7 +52,7 @@
 ### Proyectos en 42 Madrid
 - **[libft](https://github.com/AdrianSkar/42-libft)** - Implementación de librería estándar de C personalizada (43 funciones)
 - **[get_next_line](https://github.com/AdrianSkar/42-get_next_line)** - Lectura eficiente de archivos con listas enlazadas
-- **[ft_printf](https://github.com/AdrianSkar/42-ft_printf)** - Reimplementación de la función printf
+- **[ft_printf](https://github.com/AdrianSkar/42-printf)** - Reimplementación de la función printf
 
 ### Desarrollo web
 - **[Devvy](https://github.com/AdrianSkar/CS50W_capstone)** - Plataforma de referencia para desarrolladores (Django + JavaScript)
@@ -63,7 +63,7 @@
 ### 42 Madrid
 **Estudiante de ingeniería de software** | 2024 - Presente
 - Currículo básico en programación C
-- Proyectos: [libft](https://github.com/AdrianSkar/42-libft), [get_next_line](https://github.com/AdrianSkar/42-get_next_line), [ft_printf](https://github.com/AdrianSkar/42-ft_printf)
+- Proyectos: [libft](https://github.com/AdrianSkar/42-libft), [get_next_line](https://github.com/AdrianSkar/42-get_next_line), [ft_printf](https://github.com/AdrianSkar/42-printf)
 - Enfoque en algoritmos, estructuras de datos y programación de sistemas
 
 ### Harvard CS50W

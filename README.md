@@ -1,12 +1,12 @@
 ![Adrian Skar](images/adskar-black.svg)
 
-<p style="text-align: center;"><strong>Full-stack developer | C programmer | Student</strong></p>
+<p style="text-align: center;"><strong>IT technician | Web developer | C programmer</strong></p>
 
 <p style="text-align: center;">HTML - CSS - JS - GIT - SQL - C</p>
 
 ## 👋 About me
 
-Hi! I'm Adrian, a software developer with 12+ years of remote work experience. Currently studying at 42 Madrid and on my own, I specialize in web development and C programming. I'm passionate about building efficient, well-structured solutions and continuously learning new technologies. I look forward to working on new projects and being part of a great team.
+Hi! I'm Adrian, an IT technician and web developer with 14+ years of remote work experience. I currently work as a freelancer at Lionbridge/Telus on search engine quality and evaluation. I'm also studying at 42 Madrid, where I focus on systems programming in C. I'm passionate about building efficient, well-structured solutions and continuously learning new technologies. I look forward to working on new projects and being part of a great team.
 
 ## 💻 Technical skills
 
@@ -23,15 +23,15 @@ Hi! I'm Adrian, a software developer with 12+ years of remote work experience. C
 - **Version control:** Git, GitHub
 - **Databases:** MySQL, SQLite
 - **Development:** VSCode, Linux, Windows
-- **Concepts:** Data structures, algorithms, memory management, web optimization
+- **Concepts:** Data structures, algorithms, memory management, web optimization, networking
 
 ## 💼 Professional experience
 
 ### Lionbridge Technologies / Telus International
-**Search engine evaluator & translator** | 2011 - 2024
-- 13+ years of remote work experience
+**Search engine evaluator & translator** | 2011 - Present
+- 14+ years of remote work experience
 - Quality assurance and evaluation for major search engines
-- Translation services maintaining high accuracy standards
+- Translation services (EN ↔ ES) maintaining high accuracy standards
 
 ### Freelance web developer
 **Web design & development** | 2017 - 2019

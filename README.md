@@ -1,47 +1,50 @@
 ![Adrian Skar](images/adskar-black.svg)
 
-<p style="text-align: c## 🎓 Educación
-
-### 42 Madrid
-**Estudiante de ingeniería de software** | 2024 - Presente
-- Currículo básico en programación C
-- Enfoque en algoritmos, estructuras de datos y programación de sistemas
-
-### Harvard CS50Wstrong>Desarrollador full-stack | Programador en C | Estudiante</strong></p>
-
-<p style="text-align: center;">HTML - CSS - JS - GIT - SQL - C</p>
+<p style="text-align: center;"><strong>IT coordinator & sysadmin | Web developer | Search engine QA specialist</strong></p>
 
 ## 👋 Sobre mí
 
-¡Hola! Soy Adrián, un desarrollador de software con más de 12 años de experiencia trabajando de forma remota. Actualmente estudiando en 42 Madrid y por mi cuenta, me especializo en desarrollo web y programación en C. Me apasiona crear soluciones eficientes y bien estructuradas, y aprender continuamente nuevas tecnologías. Busco trabajar en nuevos proyectos y ser parte de un gran equipo.
+¡Hola! Soy Adrián, coordinador IT y administrador de sistemas en el Ayuntamiento de Gascones. Gestiono la infraestructura tecnológica completa como único recurso IT en el municipio — endpoints, seguridad, copias de seguridad, coordinación con proveedores y cumplimiento normativo. Anteriormente trabajé más de 12 años como especialista en QA de motores de búsqueda en Lionbridge/TELUS, y como desarrollador web freelance. Me apasiona crear soluciones eficientes y bien estructuradas, y aprender continuamente nuevas tecnologías.
 
 ## 💻 Habilidades técnicas
 
 ### Lenguajes
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 ### Tecnologías y herramientas
 - **Frameworks web:** Django, Astro, Bootstrap, Tailwind CSS
 - **Control de versiones:** Git, GitHub
 - **Bases de datos:** MySQL, SQLite
+- **Sistemas y seguridad:** Windows Server, Kaspersky KSOS, Zscaler, Duplicati, Linux
 - **Desarrollo:** VSCode, Linux, Windows
-- **Conceptos:** Estructuras de datos, algoritmos, gestión de memoria, optimización web
+- **Conceptos:** Redes, copias de seguridad y recuperación, documentación IT, cumplimiento RGPD, optimización web
 
 ## 💼 Experiencia profesional
 
+### Ayuntamiento de Gascones
+**Coordinador IT y administrador de sistemas** | Nov 2025 – Presente
+- Único recurso IT en el ayuntamiento, gestionando ~14 estaciones de trabajo Windows 11 Pro y coordinación con proveedor de servidor
+- Seguridad: Kaspersky KSOS, filtrado DNS Zscaler (Escudo Digital), respuesta a incidentes
+- Sistemas de copia de seguridad: Duplicati + Filen.io, HTTrack, GitHub, redundancia local
+- Liderando migración de hosting Joomla → WordPress, incluyendo procedimientos legales contra el proveedor actual
+- Implantación y configuración del sistema de RRHH Sesame en toda la organización (geolocalización, gestión de ausencias, multi-entidad)
+- Despliegue de solución OCR con scripts batch de Windows personalizados en todos los departamentos
+- Trabajando hacia la conformidad ENS categoría básica; procedimientos conformes con el RGPD y formación al personal
+- Gestión de proveedores; soporte a usuarios en todos los departamentos; supervisión de 2 alumnos en prácticas de informática
+
 ### Lionbridge Technologies / Telus International
-**Evaluador de motores de búsqueda y traductor** | 2011 - 2024
-- Más de 13 años de experiencia en trabajo remoto
+**Especialista en QA de motores de búsqueda** | Nov 2011 – May 2024
+- Más de 12 años de experiencia en trabajo remoto
 - Control de calidad y evaluación para motores de búsqueda
-- Servicios de traducción manteniendo altos estándares de precisión
+- Servicios de traducción (EN ↔ ES) manteniendo altos estándares de precisión
 
 ### Desarrollador web freelance
-**Diseño y desarrollo web** | 2017 - 2019
+**Diseño y desarrollo web** | Dic 2017 – Feb 2019
 - Desarrollo web full-stack para múltiples clientes
 - Optimización SEO y de rendimiento
 - Migración, configuración y mantenimiento de sitios
@@ -56,7 +59,7 @@
 
 ## 🚀 Proyectos destacados
 
-### Proyectos en 42 Madrid
+### Programación de sistemas
 - **[libft](https://github.com/AdrianSkar/42-libft)** - Librería C personalizada que cubre manipulación de strings, operaciones de memoria, listas enlazadas y E/S. Enfocada en seguridad de memoria, manejo de errores y comprensión de la librería estándar.
 
 - **[get_next_line](https://github.com/AdrianSkar/42-get_next_line)** - Lector de archivos línea por línea usando listas enlazadas para soporte multi-descriptor. Implementa gestión eficiente de buffers y variables estáticas para persistencia de estado.
@@ -70,12 +73,6 @@
 - **[Tesla landing clone](https://github.com/AdrianSkar/tesla-landing-clone-astro)** - Landing page moderna con Astro + Tailwind CSS
 
 ## 🎓 Educación
-
-### 42 Madrid
-**Estudiante de ingeniería de software** | 2024 - Presente
-- Currículo básico en programación C
-- Proyectos: [libft](https://github.com/AdrianSkar/42-libft), [get_next_line](https://github.com/AdrianSkar/42-get_next_line), [ft_printf](https://github.com/AdrianSkar/42-printf)
-- Enfoque en algoritmos, estructuras de datos y programación de sistemas
 
 ### Harvard CS50W
 **Programación web con Python y JavaScript** | 2021

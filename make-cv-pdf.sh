@@ -59,7 +59,7 @@ cat > "$tmp/style.css" <<CSS
 @page { size: A4; margin: 12mm 15mm; }
 body { font-family: 'Spectral', 'Noto Serif', serif; font-size: 10pt; line-height: 1.27; color: #1a1a1a; }
 header#title-block-header, .title { display: none; }   /* hide pandoc's auto title; the logo is the header */
-h2 { font-weight: 600; border-bottom: 1px solid #ddd; padding-bottom: 3px; margin-top: 13px; margin-bottom: 6px; font-size: 14.5pt; }
+h2 { font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; border-bottom: 1px solid #ddd; padding-bottom: 3px; margin-top: 13px; margin-bottom: 6px; font-size: 12.5pt; }
 h3 { font-weight: 600; margin-bottom: 2px; font-size: 11.5pt; }
 h3 + p, h3 + ul { margin-top: 2px; }
 body > p:first-of-type img { display: block; margin: 0 auto; width: 42%; height: auto; }  /* the logo (data-URI embedding breaks src-based selectors) */

@@ -135,5 +135,5 @@ Sole on-site IT resource for a small municipality near Madrid, managing the full
 
 ___
 
-- [Printable version](Adrian_cv_print.pdf)
+- [Printable version](Adrian_Skar_CV_EN.pdf)
 - [🇪🇸 Versión en Castellano](https://github.com/AdrianSkar/cv/tree/es)

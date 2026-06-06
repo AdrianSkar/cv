@@ -1,12 +1,12 @@
 ![Adrian Skar](images/adskar-black.svg)
 
-<p style="text-align: center;"><strong>IT technician | Web developer | C programmer</strong></p>
-
-<p style="text-align: center;">HTML - CSS - JS - GIT - SQL - C</p>
+<p style="text-align: center;"><strong>IT coordinator & sysadmin | Web developer | Search engine QA specialist</strong></p>
 
 ## 👋 About me
 
-Hi! I'm Adrian, an IT technician and web developer with 14+ years of remote work experience. I currently work as a freelancer at Lionbridge/Telus on search engine quality and evaluation. I'm also studying at 42 Madrid, where I focus on systems programming in C. I'm passionate about building efficient, well-structured solutions and continuously learning new technologies. I look forward to working on new projects and being part of a great team.
+Hi! I'm Adrian, an IT coordinator & sysadmin based in Madrid, Spain. Currently managing IT infrastructure for a municipality near Madrid — endpoint management, security, backups, compliance, and everything in between.
+
+Background in web development and systems programming, with 14+ years of remote work, including 12+ in search engine quality assurance. I enjoy building reliable systems, documenting what matters, and making technology work for people who aren't technical.
 
 ## 💻 Technical skills
 
@@ -19,25 +19,56 @@ Hi! I'm Adrian, an IT technician and web developer with 14+ years of remote work
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### Technologies & tools
-- **Web frameworks:** Django, Astro, Bootstrap, Tailwind CSS
+- **IT infrastructure:** Windows 11, Linux (Debian/Mint), endpoint management, hardware repair
+- **Security:** Kaspersky KSOS, Zscaler DNS filtering, UFW, DeepFreeze/overlayfs
+- **Backup & recovery:** Duplicati, Filen.io, HTTrack, GitHub
+- **CMS & web:** WordPress, Joomla, Django, Astro, Bootstrap, Tailwind CSS
 - **Version control:** Git, GitHub
 - **Databases:** MySQL, SQLite
-- **Development:** VSCode, Linux, Windows
-- **Concepts:** Data structures, algorithms, memory management, web optimization, networking
+- **Compliance:** ENS (Esquema Nacional de Seguridad), GDPR/RGPD
+- **Concepts:** Data structures, algorithms, memory management, networking
 
 ## 💼 Professional experience
 
+### Gascones municipality
+**IT coordinator & systems administrator** | Nov 2025 – Present
+
+Sole on-site IT resource for a small municipality near Madrid, managing the full technology stack across all municipal departments.
+
+- Endpoint management: ~16 endpoints — Windows 11 Pro workstations and a Linux Mint deployment for public-access use (library), avoiding additional licensing costs
+- Public-access machines hardened with DeepFreeze/overlayfs (3 Windows + 1 Linux Mint)
+- Security: Kaspersky KSOS, Zscaler DNS filtering, antivirus policy and incident response
+- Backup systems: Duplicati + Filen.io, HTTrack, GitHub, local redundancy
+- Leading a Joomla → WordPress hosting migration and provider transition
+- Deployed Sesame HR system organisation-wide (geolocation, leave management, multi-entity)
+- Rolled out OCR solution with custom batch scripts, deployed across all departments
+- Working towards ENS basic category compliance; RGPD-compliant procedures and staff guidance
+- Vendor and supplier management; user support across all departments and public-facing citizen assistance
+- Supervising 2 IT placement students
+
+### Groundforce España
+**Ground handling agent** | Mar 2025 – Jul 2025
+
+- Passenger check-in and boarding gate management at Madrid-Barajas airport
+- Worked with complex airline registry systems tracking passengers, boarding, and acceptance status in real time
+- Fast-paced, customer-facing role with strict time and compliance requirements
+
 ### Lionbridge Technologies / Telus International
-**Search engine evaluator & translator** | 2011 - Present
-- 14+ years of remote work experience
-- Quality assurance and evaluation for major search engines
-- Translation services (EN ↔ ES) maintaining high accuracy standards
+**Search engine QA specialist** | Nov 2011 – May 2024 · 12 yrs 7 mos · Freelance · Remote
+
+- Quality assurance for search engine ranking and content quality across multiple concurrent projects
+- Assessed relevance across diverse content types: web pages, images, videos, and product listings
+- Verified factual accuracy and evaluated content credibility against detailed, evolving quality guidelines
+- Consistently exceeded quality targets, earning performance bonuses on multiple occasions
+- Applied EN ↔ ES translation and bilingual content evaluation across Spanish-market tasks
 
 ### Freelance web developer
-**Web design & development** | 2017 - 2019
-- Full-stack web development for multiple clients
-- SEO optimization and performance tuning
-- Site migration, setup, and maintenance
+**Web design & development** | Dec 2017 – Feb 2019
+
+- Full-stack web development for multiple clients, handling projects end to end from brief to deployment
+- Led recovery after a client security breach: restored backup, rebuilt lost content, and hardened the installation
+- Managed Google Ads and Analytics campaigns across international markets, improving engagement by up to 30%
+- Designed logos and visual identity for two clients
 
 #### Selected projects:
 - **[natural-acupuncture.com](https://natural-acupuncture.com/)** - Performance optimization, SEO, site migration
@@ -49,13 +80,10 @@ Hi! I'm Adrian, an IT technician and web developer with 14+ years of remote work
 
 ## 🚀 Featured projects
 
-### 42 projects
+### Systems programming
 - **[libft](https://github.com/AdrianSkar/42-libft)** - Custom C library covering string manipulation, memory operations, linked lists, and I/O. Focuses on memory safety, proper error handling, and understanding standard library internals.
-
 - **[get_next_line](https://github.com/AdrianSkar/42-get_next_line)** - Line-by-line file reader using linked lists for multi-file descriptor support. Implements efficient buffer management and static variables for state persistence.
-
 - **[ft_printf](https://github.com/AdrianSkar/42-printf)** - Printf reimplementation using function pointer dispatch tables and variadic functions. Handles 9 format specifiers with proper type conversion and base operations.
-
 - **[Born2beRoot](https://github.com/AdrianSkar/42-b2br)** - Secure Debian server setup with encrypted LVM, SSH hardening, UFW firewall, sudo policies, and automated system monitoring script.
 
 ### Web development
@@ -64,10 +92,16 @@ Hi! I'm Adrian, an IT technician and web developer with 14+ years of remote work
 
 ## 🎓 Education
 
+### Certificado de profesionalidad — Sistemas de gestión de información (IFCD0211)
+**Butarque vocational training centre** | Oct 2025 – Jun 2026
+- Official vocational qualification in information systems management
+- Centre certificate received June 2026; official Comunidad de Madrid diploma pending
+
 ### 42 Madrid
-**Software engineering student** | 2024 - Present
-- Core curriculum in C programming
-- Focus on algorithms, data structures, and systems programming
+**Software engineering — C programming** | 2024
+- Intensive peer-to-peer systems programming curriculum in C, no instructors or lectures
+- Built a custom C library, a `printf` reimplementation, and a hardened Debian server ([projects above](#systems-programming))
+- Emphasis on memory management, teamwork, and fully self-directed learning
 
 ### Harvard CS50W
 **Web programming with Python and JavaScript** | 2021

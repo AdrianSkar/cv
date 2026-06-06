@@ -57,7 +57,7 @@ cat > "$tmp/style.css" <<CSS
 @font-face { font-family:'Spectral'; font-weight:600; font-style:normal; src:url('$fontdir/Spectral-SemiBold.ttf'); }
 @font-face { font-family:'Spectral'; font-weight:700; font-style:normal; src:url('$fontdir/Spectral-Bold.ttf'); }
 @page { size: A4; margin: 12mm 15mm; }
-body { font-family: 'Spectral', 'Noto Serif', serif; font-size: 10.5pt; line-height: 1.3; color: #1a1a1a; }
+body { font-family: 'Spectral', 'Noto Serif', serif; font-size: 10pt; line-height: 1.27; color: #1a1a1a; }
 header#title-block-header, .title { display: none; }   /* hide pandoc's auto title; the logo is the header */
 h2 { font-weight: 600; border-bottom: 1px solid #ddd; padding-bottom: 3px; margin-top: 13px; margin-bottom: 6px; font-size: 14.5pt; }
 h3 { font-weight: 600; margin-bottom: 2px; font-size: 11.5pt; }

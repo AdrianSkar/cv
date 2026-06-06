@@ -19,7 +19,7 @@ Background in web development and systems programming, with 14+ years of remote 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### Technologies & tools
-- **IT infrastructure:** Windows 11, Linux (Debian/Mint), endpoint management, hardware repair
+- **IT infrastructure:** Windows 11, Linux (Debian/Mint/Arch), endpoint management, hardware repair
 - **Security:** Kaspersky KSOS, Zscaler DNS filtering, UFW, DeepFreeze/overlayfs
 - **Backup & recovery:** Duplicati, Filen.io, HTTrack, GitHub
 - **CMS & web:** WordPress, Joomla, Django, Astro, Bootstrap, Tailwind CSS

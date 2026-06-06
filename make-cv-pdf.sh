@@ -49,7 +49,7 @@ fi
 
 cat > "$tmp/style.css" <<'CSS'
 @page { size: A4; margin: 12mm 15mm; }
-body { font-family: "Noto Sans", "DejaVu Sans", sans-serif; font-size: 10pt; line-height: 1.34; color: #1a1a1a; }
+body { font-family: "Noto Sans", "DejaVu Sans", sans-serif; font-size: 10pt; line-height: 1.28; color: #1a1a1a; }
 header#title-block-header, .title { display: none; }   /* hide pandoc's auto title; the logo is the header */
 h2 { border-bottom: 1px solid #ddd; padding-bottom: 3px; margin-top: 13px; margin-bottom: 6px; font-size: 14pt; }
 h3 { margin-bottom: 2px; font-size: 11.5pt; }

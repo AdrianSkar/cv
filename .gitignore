@@ -1,34 +1,18 @@
-# AI Agent workflow documentation (kept local)# AI Agent workflow documentation (kept local)
+# AI agent workflow files (kept local — contain device-specific paths)
+AGENTS.md
+CLAUDE.md
 
-AGENTS.mdAGENTS.md
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
 
+# OS files
+.DS_Store
+Thumbs.db
 
-
-# IDE and editor files# IDE and editor files
-
-.vscode/.vscode/
-
-.idea/.idea/
-
-*.swp*.swp
-
-*.swo*.swo
-
-*~*~
-
-
-
-# OS files# OS files
-
-.DS_Store.DS_Store
-
-Thumbs.dbThumbs.db
-
-
-
-# Temporary files# Temporary files
-
-*.tmp*.tmp
-
-*.bak*.bak
-
+# Temporary files
+*.tmp
+*.bak

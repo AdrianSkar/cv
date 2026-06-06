@@ -54,7 +54,7 @@ header#title-block-header, .title { display: none; }   /* hide pandoc's auto tit
 h2 { border-bottom: 1px solid #ddd; padding-bottom: 3px; margin-top: 13px; margin-bottom: 6px; font-size: 14pt; }
 h3 { margin-bottom: 2px; font-size: 11.5pt; }
 h3 + p, h3 + ul { margin-top: 2px; }
-img { max-height: 52px; width: auto; }   /* caps the logo; data-URI embedding breaks src-based selectors */
+img { max-height: 80px; width: auto; }   /* caps the logo; data-URI embedding breaks src-based selectors */
 p img { vertical-align: middle; }
 ul { margin-top: 4px; padding-left: 18px; }
 li { margin-bottom: 2px; }

@@ -4,24 +4,26 @@
 #   ./make-cv-pdf.sh                 # output name auto-detected from git branch
 #   ./make-cv-pdf.sh README.md out.pdf
 #
-# Deps: pandoc, gawk, chromium (all already installed). No npm, no token cost.
+# Deps: pandoc, gawk, perl, chromium (all preinstalled). No npm, no token cost.
+# The body font (Spectral, OFL) is vendored in ./fonts, so rendering is
+# identical on any machine and the default build needs no network.
 #
-# Print vs web: the PDF is meant to be the restrained, professional version,
-# so by default it strips the shields.io badges (-> plain "A · B · C" text)
-# and the section-heading emojis. The web README keeps both. Set
-# STRIP_DECORATION=0 to keep badges/emoji in the PDF too.
+# Print vs web: the PDF is the restrained, professional version, so by default
+# it strips the shields.io badges (-> plain "A · B · C" text) and the section
+# emojis. The web README keeps both. Set STRIP_DECORATION=0 to keep them.
 set -euo pipefail
 cd "$(dirname "$0")"
 
 STRIP_DECORATION="${STRIP_DECORATION:-1}"
+fontdir="$PWD/fonts"
 
 md="${1:-README.md}"
 if [ -n "${2:-}" ]; then
   out="$2"
 elif [ "$(git rev-parse --abbrev-ref HEAD 2>/dev/null)" = "es" ]; then
-  out="ResumeAds-ES.pdf"
+  out="Adrian_Skar_CV_ES.pdf"
 else
-  out="Adrian_cv_print.pdf"
+  out="Adrian_Skar_CV_EN.pdf"
 fi
 
 tmp="$(mktemp -d)"
@@ -47,19 +49,25 @@ if [ "$STRIP_DECORATION" = "1" ]; then
   | sed -E -e 's/^(#{1,6}) +/\1 /' -e 's/^([-*]) +/\1 /' > "$src"
 fi
 
-cat > "$tmp/style.css" <<'CSS'
+# Note: heredoc is unquoted so $fontdir expands; the CSS below uses no other
+# shell metacharacters ($ or backticks), so this is safe.
+cat > "$tmp/style.css" <<CSS
+@font-face { font-family:'Spectral'; font-weight:400; font-style:normal; src:url('$fontdir/Spectral-Regular.ttf'); }
+@font-face { font-family:'Spectral'; font-weight:400; font-style:italic; src:url('$fontdir/Spectral-Italic.ttf'); }
+@font-face { font-family:'Spectral'; font-weight:600; font-style:normal; src:url('$fontdir/Spectral-SemiBold.ttf'); }
+@font-face { font-family:'Spectral'; font-weight:700; font-style:normal; src:url('$fontdir/Spectral-Bold.ttf'); }
 @page { size: A4; margin: 12mm 15mm; }
-body { font-family: "Noto Sans", "DejaVu Sans", sans-serif; font-size: 10pt; line-height: 1.28; color: #1a1a1a; }
+body { font-family: 'Spectral', 'Noto Serif', serif; font-size: 10pt; line-height: 1.27; color: #1a1a1a; }
 header#title-block-header, .title { display: none; }   /* hide pandoc's auto title; the logo is the header */
-h2 { border-bottom: 1px solid #ddd; padding-bottom: 3px; margin-top: 13px; margin-bottom: 6px; font-size: 14pt; }
-h3 { margin-bottom: 2px; font-size: 11.5pt; }
+h2 { font-weight: 600; border-bottom: 1px solid #ddd; padding-bottom: 3px; margin-top: 13px; margin-bottom: 6px; font-size: 14.5pt; }
+h3 { font-weight: 600; margin-bottom: 2px; font-size: 11.5pt; }
 h3 + p, h3 + ul { margin-top: 2px; }
-img { display: block; margin: 0 auto; width: 42%; height: auto; }   /* center + size logo (data-URI embedding breaks src-based selectors) */
+body > p:first-of-type img { display: block; margin: 0 auto; width: 42%; height: auto; }  /* the logo (data-URI embedding breaks src-based selectors) */
 p img { vertical-align: middle; }
 ul { margin-top: 4px; padding-left: 18px; }
 li { margin-bottom: 2px; }
 a { color: #0a66c2; text-decoration: none; }
-code { background: #f3f3f3; padding: 1px 3px; border-radius: 3px; font-size: 9.5pt; }
+code { font-family: monospace; background: #f3f3f3; padding: 1px 3px; border-radius: 3px; font-size: 9.5pt; }
 CSS
 
 pandoc "$src" -f gfm -t html5 -s \
@@ -69,10 +77,20 @@ pandoc "$src" -f gfm -t html5 -s \
   --embed-resources --standalone \
   -o "$tmp/cv.html"
 
-chromium --headless=new --no-sandbox --disable-gpu \
-  --no-pdf-header-footer \
-  --virtual-time-budget=15000 \
-  --print-to-pdf="$out" \
-  "$tmp/cv.html" 2>/dev/null
+log="$tmp/chromium.log"
+if ! chromium --headless=new --disable-gpu \
+     --no-pdf-header-footer \
+     --virtual-time-budget=15000 \
+     --print-to-pdf="$out" \
+     "$tmp/cv.html" >"$log" 2>&1; then
+  echo "ERROR: chromium failed to render the PDF:" >&2
+  cat "$log" >&2
+  exit 1
+fi
+if [ ! -s "$out" ]; then
+  echo "ERROR: $out was not created or is empty:" >&2
+  cat "$log" >&2
+  exit 1
+fi
 
 echo "Wrote $out ($(du -h "$out" | cut -f1), $(pdfinfo "$out" 2>/dev/null | awk '/^Pages/{print $2" pages"}'))"

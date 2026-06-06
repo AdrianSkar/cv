@@ -133,5 +133,5 @@
 
 ___
 
-- [Versión imprimible](ResumeAds-ES.pdf)
+- [Versión imprimible](Adrian_Skar_CV_ES.pdf)
 - [🇬🇧 English version](https://github.com/AdrianSkar/cv)

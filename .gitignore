@@ -1,5 +1,6 @@
-# AI Agent workflow documentation (kept local)
+# AI agent workflow files (kept local — contain device-specific paths)
 AGENTS.md
+CLAUDE.md
 
 # IDE and editor files
 .vscode/

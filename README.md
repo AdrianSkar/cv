@@ -35,7 +35,7 @@ Background in web development and systems programming, with 14+ years of remote 
 
 Sole on-site IT resource for a small municipality near Madrid, managing the full technology stack across all municipal departments.
 
-- Endpoint management: ~16 endpoints — Windows 11 Pro workstations and a Linux Mint deployment for public-access use (library), avoiding additional licensing costs
+- Endpoint management: ~17 endpoints — Windows workstations and a Linux Mint deployment for public-access use (library), avoiding additional licensing costs
 - Public-access machines hardened with DeepFreeze/overlayfs (3 Windows + 1 Linux Mint)
 - Security: Kaspersky KSOS, Zscaler DNS filtering, antivirus policy and incident response
 - Backup systems: Duplicati + Filen.io, HTTrack, GitHub, local redundancy
